@@ -1,0 +1,25 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background: rgb(160,82,45);
+    color: rgb(16,12,8);
+}
+
+.row{
+    margin: auto;
+}
+
+.content{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.noPadding {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+hr{
+    opacity: 1;
+    height: 2px !important;
+    background-color: rgb(16,12,8);
+}
